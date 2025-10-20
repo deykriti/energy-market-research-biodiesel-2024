@@ -54,20 +54,19 @@ Conducted a 12-month quantitative and policy-based assessment of the U.S. biodie
 - **Value Chain Mapping:** From **biomass sourcing → production → distribution → transportation end use**.
 
 ---
-### Visuals
+### Key Visuals
 
-#### 1. Scope 
-![Project Scope](biodiesel_research_methodology.png)
+#### 1. Research Methodology
+![Research Methodology](biodiesel_research_methodology.png)
 
-#### 1. Price Trend (2024–2025)
+#### 2. Price Trend (2024–2025)
 ![Price Trend](biodiesel_price_trend.png)
 
-#### 2. Value Chain Map
+#### 3. Value Chain Map
 ![Value Chain](biodiesel_value_chain.png)
 
-#### 3. Tariff & Policy Timeline
+#### 4. Policy & Tariff Impact
 ![Policy Impact](biodiesel_policy_impact.png)
-
 
 ---
 
@@ -88,23 +87,18 @@ Conducted a 12-month quantitative and policy-based assessment of the U.S. biodie
 - Professional storytelling with evidence-based conclusions  
 
 ---
-## 🎥 Final Deliverable
+## Final Deliverable
 
 The outcome of this project is a **professional presentation deck** summarizing the market insights, forecast findings, and policy implications in a visually structured format — designed to mirror real consulting deliverables.
 
 **🔗 View Full Deck:**  
-[`us_biodiesel_price_analysis.xlsx`](us_biodiesel_price_analysis.xlsx)
+[`us_biodiesel_price_analysis.pptx`](us_biodiesel_price_analysis.pptx)
 
-The deck includes:
-- **Executive summary** of key pricing and policy insights  
-- **Data visualizations** (pricing trends, tariff impacts, value chain)  
-- **Forecast assumptions** and modeling explanation  
-
-> *Ideal for recruiters or hiring managers who prefer concise, visual demonstrations of research and analytical storytelling.*
-
+> *The deck includes executive summary, methodology, data visualizations, forecast assumptions, and concluding recommendations*
 
 
 
 **Connect with me:**  
-🔗 [LinkedIn](your_link_here) | 💻 [GitHub](your_link_here)
+[LinkedIn](https://www.linkedin.com/in/kritidey/) · [GitHub](https://deykriti.github.io/)
+
 
